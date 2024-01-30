@@ -18,7 +18,7 @@ Labels: 📖 Reading ✅ Done
 - ✅ Slow reading: The Happiness Project – January Chapter
 - ✅ Yugto Bookclub: The Overseas Fabulous Pinay by Donna Avellana Künzler
 - 📖 All-year round – January: Pages 1 to 27 (Pot reading): The Norse Myths by Kevin Crossley-Holland
-- Tech Book – Chapter 1 & 2: Learn Python with Jupyter
+- ✅ Tech Book – Chapter 1 & 2: Learn Python with Jupyter
 
 --------------
 
