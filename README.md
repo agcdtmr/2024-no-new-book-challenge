@@ -14,20 +14,19 @@ Labels: 📖 Reading ✅ Done
 
 #### January 31
 - 📖 Zen and the Art of Saving the Planet by Thich Nhat Hanh
-- 📖 Breakfast reading (Dutch): Koloniaal Rotterdam: Stad van vandaag en morgen
+- ✅ Breakfast reading (Dutch): Koloniaal Rotterdam: Stad van vandaag en morgen
 - ✅ Slow reading: The Happiness Project – January Chapter
-- ✅ Yugto Bookclub: The Overseas Fabulous Pinay by Donna Avellana Künzler
-- 📖 All-year round – January: Pages 1 to 27 (Pot reading): The Norse Myths by Kevin Crossley-Holland
+- ✅ All-year round – January: Pages 1 to 27 (Pot reading): The Norse Myths by Kevin Crossley-Holland
 - ✅ Tech Book – Chapter 1 & 2: Learn Python with Jupyter
 
 --------------
 
 #### February 29
-- All About Love: New Visions by bell hooks
+- 📖 All About Love: New Visions by bell hooks
 - 📖 Club Lees VPRO (Dutch): Herfst
 - Slow reading: The Happiness Project – February Chapter
 - ✅ Yugto Bookclub: Antiemetic for Homesickness by Romalyn Ante
-- All-year round – February: Pages 28 to 54 (Pot reading): The Norse Myths by Kevin Crossley-Holland
+- 📖 All-year round – February: Pages 28 to 54 (Pot reading): The Norse Myths by Kevin Crossley-Holland
 - Tech Book – Chapter 3 & 4: Learn Python with Jupyter
 
 --------------
