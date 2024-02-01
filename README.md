@@ -23,6 +23,8 @@ Labels: 📖 Reading ✅ Done
 
 #### February 29
 - 📖 All About Love: New Visions by bell hooks
+- GirlTalk
+- Liefde is... Kim Casali
 - 📖 Club Lees VPRO (Dutch): Herfst
 - Slow reading: The Happiness Project – February Chapter
 - ✅ Yugto Bookclub: Antiemetic for Homesickness by Romalyn Ante
@@ -34,6 +36,7 @@ Labels: 📖 Reading ✅ Done
 #### March 31
 - Breakfast reading (English): The Impact of Inequality: How to Make Sick Societies Healthier by Richard G. Wilkinson
 - Club Lees VPRO (Dutch): TBA
+- De Profeet Kahlil Gibran
 - Slow reading: The Happiness Project – March Chapter
 - Yugto Bookclub: Woman in a Frame by Raissa Rivera Falgui
 - 📖 Yugto Bookclub: Stupid is Forever by Miriam Defensor Santiago
