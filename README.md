@@ -24,7 +24,7 @@ Labels: 📖 Reading ✅ Done
 #### February 29
 - 📖 All About Love: New Visions by bell hooks
 - GirlTalk
-- Liefde is... Kim Casali
+- ✅ Liefde is... Kim Casali
 - 📖 Club Lees VPRO (Dutch): Herfst
 - Slow reading: The Happiness Project – February Chapter
 - ✅ Yugto Bookclub: Antiemetic for Homesickness by Romalyn Ante
@@ -39,7 +39,7 @@ Labels: 📖 Reading ✅ Done
 - De Profeet Kahlil Gibran
 - Slow reading: The Happiness Project – March Chapter
 - Yugto Bookclub: Woman in a Frame by Raissa Rivera Falgui
-- 📖 Yugto Bookclub: Stupid is Forever by Miriam Defensor Santiago
+- ✅ Yugto Bookclub: Stupid is Forever by Miriam Defensor Santiago
 - All-year round – March: Pages 55 to 81 (Pot reading): The Norse Myths by Kevin Crossley-Holland
 - Tech Book – Chapter 5 & 6: Learn Python with Jupyter
 
