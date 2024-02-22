@@ -23,7 +23,7 @@ Labels: 📖 Reading ✅ Done
 
 #### February 29
 - 📖 All About Love: New Visions by bell hooks
-- GirlTalk
+- 📖 GirlTalk
 - ✅ Liefde is... Kim Casali
 - Slow reading: The Happiness Project – February Chapter
 - ✅ Yugto Bookclub: Antiemetic for Homesickness by Romalyn Ante
