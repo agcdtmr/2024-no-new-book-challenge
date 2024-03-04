@@ -27,7 +27,7 @@ Labels: 📖 Reading ✅ Done
 - ✅ Liefde is... Kim Casali
 - Slow reading: The Happiness Project – February Chapter
 - ✅ Yugto Bookclub: Antiemetic for Homesickness by Romalyn Ante
-- 📖 All-year round – February: Pages 28 to 54 (Pot reading): The Norse Myths by Kevin Crossley-Holland
+- ✅ All-year round – February: Pages 28 to 54 (Pot reading): The Norse Myths by Kevin Crossley-Holland
 - Tech Book – Chapter 3 & 4: Learn Python with Jupyter
 
 --------------
