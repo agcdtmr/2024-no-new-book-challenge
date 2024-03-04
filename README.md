@@ -13,7 +13,7 @@ Labels: 📖 Reading ✅ Done
 
 
 #### January 31
-- 📖 Zen and the Art of Saving the Planet by Thich Nhat Hanh
+- ✅ Zen and the Art of Saving the Planet by Thich Nhat Hanh
 - ✅ Breakfast reading (Dutch): Koloniaal Rotterdam: Stad van vandaag en morgen
 - ✅ Slow reading: The Happiness Project – January Chapter
 - ✅ All-year round – January: Pages 1 to 27 (Pot reading): The Norse Myths by Kevin Crossley-Holland
