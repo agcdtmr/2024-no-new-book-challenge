@@ -22,7 +22,7 @@ Labels: 📖 Reading ✅ Done
 --------------
 
 #### February 29
-- 📖 All About Love: New Visions by bell hooks
+- ✅ All About Love: New Visions by bell hooks
 - 📖 GirlTalk
 - ✅ Liefde is... Kim Casali
 - 📖 Slow reading: The Happiness Project – February Chapter
