@@ -34,11 +34,11 @@ Labels: 📖 Reading ✅ Done
 
 #### March 31
 - Breakfast reading (English): The Impact of Inequality: How to Make Sick Societies Healthier by Richard G. Wilkinson
-- 📖 Children's book (Dutch): Haaientanden by Anna Woltz & Maartje Kuiper (illustrator)
+- ✅ Children's book (Dutch): Haaientanden by Anna Woltz & Maartje Kuiper (illustrator)
 - 📖 Club Lees VPRO (Dutch): Ik ben Eleanor Oliphant van Gail Honeyman & Hien Montijn (Translator)
 - 📖 De Profeet Kahlil Gibran
 - Slow reading: The Happiness Project – March Chapter
-- 📖 Yugto Bookclub: Woman in a Frame by Raissa Rivera Falgui
+- ✅ Yugto Bookclub: Woman in a Frame by Raissa Rivera Falgui
 - ✅ Yugto Bookclub: Stupid is Forever by Miriam Defensor Santiago
 - All-year round – March: Pages 55 to 81 (Pot reading): The Norse Myths by Kevin Crossley-Holland
 - Tech Book – Chapter 5 & 6: Learn Python with Jupyter
