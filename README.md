@@ -2,7 +2,7 @@
 
 Welcome to my 2024 No New Book Challenge! This year, my reading journey is centered around savoring the literary treasures already on my bookshelves.
 Join me as I navigate through the diverse realms of fiction, non-fiction, poetry and even dive into the tech world with “Learn Python with Jupyter”.
-Throughout the months, I’ll explore thought-provoking titles, engage with various book clubs, and embark on a reflective adventure with “The Happiness Project” by Gretchen Rubin.
+Throughout the months, I’ll explore thought-provoking titles, engage with various book clubs, and embark on a reflective adventure.
 
 Let’s plunge into my book lineup for every month:
 
